@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Felix LEDs</string>
+    <string name="buttonOn">Tänd</string>
+    <string name="buttonOff">Släck</string>
+</resources>
